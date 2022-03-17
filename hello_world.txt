@@ -1,2 +1,3 @@
 making some changes
-let's see how it goes
+let's see how it goes.
+adding a machine
