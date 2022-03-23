@@ -1,3 +1,4 @@
 making some changes
 let's see how it goes.
 adding a machine
+how does adding two files and then commit look?
